@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Fork provenance.** This repository is retained under the CamCore GitHub account as a fork of [007revad/Transcode_for_x25](https://github.com/007revad/Transcode_for_x25). The current default branch contains no CamCore-specific implementation. Its presence does not indicate an active CamCore deployment, CamCore operational support or original CamCore authorship. Use the upstream project for product documentation and support. The upstream README continues below unchanged, and the repository's licence text remains unmodified.
+
 # <img src="images/icon.png" width="70"> Transcode for x25
 
 <a href="https://github.com/007revad/Transcode_for_x25/releases"><img src="https://img.shields.io/github/release/007revad/Transcode_for_x25.svg"></a>
